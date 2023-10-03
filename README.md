@@ -1,2 +1,2 @@
-# 10-pro-overview
-This is my first Git Repository which describe about certain best feature of a  phone
+# MUSIC
+This is my first Git Repository where you have the power to make your own music
